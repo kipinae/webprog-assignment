@@ -1,0 +1,37 @@
+body {
+  background-color: #169bd5;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container-fluid {
+  background-color: #FFF;
+  padding-bottom: 30px;
+}
+
+h1.logo {
+  font-family: 'Bowlby One', cursive;
+  text-align: center;
+  color: #169bd5;
+  font-size: 3.5em;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+.form-signin {
+  max-width: 160px;
+  margin: 0 auto;
+}
+
+form.form-signin h2 {
+  padding-bottom: 10px;
+}
+
+p.btn-submit {
+  max-width: 100px;
+  margin: 0 auto;
+  padding: 10px;
+}
